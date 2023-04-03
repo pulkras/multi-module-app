@@ -1,5 +1,5 @@
-rootProject.name = 'application'
-include 'worker'
-include 'worker'
+rootProject.name = 'multi-module-app'
+include 'pulkras-worker'
 include 'pulkras-client-api'
+include 'pulkras-miscellaneous'
 
